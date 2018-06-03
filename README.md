@@ -1,8 +1,56 @@
 # GitQuiz-for-Wang
 
-为王同学准备的 git 及 github 工具学习 repo
+[PASS]QUIZ1:为王同学准备的 git 及 github 工具学习 repo
 
-# 有效时间
+[NOW]QUIZ2:Python3基础语法测试1
+
+
+# QUIZ2有效时间：
+
+2018/6/3 - 2018/6/10
+
+# 任务要求：
+请根据`list&tuple_quiz.py`,`dict&set_quiz.py`，两文件中注释要求书写代码，代码书写在相应注视下。
+
+上传要求：
+
+1、在源文件中修改并上传
+
+2、请在本机运行成功后再上传
+
+3、注意语法格式
+
+# list&tuple_quiz.py:
+
+列表和元组的相关操作练习，最终输出应为：
+
+
+```
+length of foods:4
+['RostDuck', 'CreamSoup', 'HotPot', 'Steak', 'Hamburger', 'MashedPatato']
+RostDuck
+CreamSoup
+HotPot
+Hamburger
+MashedPatato
+
+```
+
+(思考题可在注释中书写）
+
+# dict&set_quiz.py:
+
+字典与集合相关操作联系，最终输出应为：
+
+```
+{'RostDuc': '64', 'HotPot': '59', 'Steak': '60', 'Hamburger': '83'}
+4
+{1, 2, 3}
+{1, 2, 3, 4, 5, 6, 7, 8, 12, 21}
+```
+
+<hr>
+# QUIZ1:有效时间
 
 2018/5/18-2018/5/25
 
