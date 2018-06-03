@@ -10,7 +10,7 @@
 2018/6/3 - 2018/6/10
 
 # 任务要求：
-请根据`list&tuple_quiz.py`,`dict&set_quiz.py`，两文件中注释要求书写代码，代码书写在相应注视下。
+请根据`list&tuple_quiz.py`,`dict&set_quiz.py`，两文件中注释要求书写代码，代码书写在相应注释下。
 
 上传要求：
 
